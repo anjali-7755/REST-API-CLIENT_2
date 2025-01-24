@@ -33,5 +33,15 @@ Libraries:
 org.json (JSON Parsing)
 Java Swing (GUI)
 Tools: Eclipse IDE or any Java-compatible IDE
+# OUTPUT OF THE TASK:
+![Image](https://github.com/user-attachments/assets/a5e249ea-866b-461a-ae05-7121777312b3)
+
+![Image](https://github.com/user-attachments/assets/140956ff-574a-42a9-9cf2-5396a8fdd85f)
+
+![Image](https://github.com/user-attachments/assets/268b5232-cdb2-40eb-a6f6-99f4addc5ff7)
+
+![Image](https://github.com/user-attachments/assets/b7ac2003-a0cc-40b0-94ae-eb2434cf9560)
+
+![Image](https://github.com/user-attachments/assets/70e51592-4101-42eb-b8ff-6d553df5b7b0)
 
 
