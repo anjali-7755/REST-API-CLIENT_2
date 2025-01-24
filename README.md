@@ -1,11 +1,13 @@
 # REST-API-CLIENT_2
-### **COMPANY**: CODETECH IT SOLUTIONS
-### **NAME**: ANJALI T
-### **INTERN ID**: CT08IWY       
-### **DOMAIN**: JAVA
-### **BATCH DURATION**: January 5th, 2025 to February 5th, 2025
-### **MENTOR NAME**: Neela Santhosh Kumar
-### DESCRIPTION OF THE TASK: This project implements a simple REST API client application to fetch and display random dog pictures. The application demonstrates how to consume a public REST API, parse JSON responses, and present the fetched data using a graphical user interface (GUI).
+#### **COMPANY**: CODETECH IT SOLUTIONS
+#### **NAME**: ANJALI T
+#### **INTERN ID**: CT08IWY       
+#### **DOMAIN**: JAVA
+#### **BATCH DURATION**: January 5th, 2025 to February 5th, 2025
+#### **MENTOR NAME**: Neela Santhosh Kumar
+## **DESCRIPTION OF THE TASK**:
+This project implements a simple REST API client application to fetch and display random dog pictures. The application demonstrates how to consume a public REST API, parse JSON responses, and present the fetched data using a graphical user interface (GUI).
+
 ## **Features**:
 REST API Integration: Connects to the Dog CEO API to fetch random dog images.
 JSON Parsing: Parses the JSON response to extract the dog image URL.
@@ -33,6 +35,7 @@ Programming Language: Java
 org.json (JSON Parsing)
 Java Swing (GUI)
 **Tools**: Eclipse IDE or any Java-compatible IDE
+
 ## OUTPUT OF THE TASK:
 ![Image](https://github.com/user-attachments/assets/a5e249ea-866b-461a-ae05-7121777312b3)
 
