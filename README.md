@@ -6,12 +6,12 @@
 **BATCH DURATION**: January 5th, 2025 to February 5th, 2025
 **MENTOR NAME**: Neela Santhosh Kumar
 # DESCRIPTION OF THE TASK: This project implements a simple REST API client application to fetch and display random dog pictures. The application demonstrates how to consume a public REST API, parse JSON responses, and present the fetched data using a graphical user interface (GUI).
-Features:
+## **Features**:
 REST API Integration: Connects to the Dog CEO API to fetch random dog images.
 JSON Parsing: Parses the JSON response to extract the dog image URL.
 Console Output: Prints the fetched dog image URL in the console.
 GUI Display: Displays the fetched dog image in a user-friendly Swing GUI window.
-Dataset:
+## **Dataset**:
 Dog CEO API:
 Provides random dog image URLs.
 API Endpoint Used: https://dog.ceo/api/breeds/image/random
